@@ -1,0 +1,9 @@
+streamlit
+geopy
+aerosandbox
+folium
+streamlit-folium
+streamlit-searchbox
+matplotlib
+plotly
+pandas
